@@ -1,3 +1,1 @@
 Bu bir test dosyasıdır. Değişilik yapılıyor v2.
-
-Test Branch line added
