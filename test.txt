@@ -5,3 +5,5 @@ Test Branch line added
 Test Branch line added 2
 
 Main branch line added
+
+Conflict Branch v2 Test
